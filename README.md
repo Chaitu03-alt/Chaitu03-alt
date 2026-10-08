@@ -3,10 +3,10 @@
 Backend Engineer focused on scalable APIs, autonomous AI agent architectures, and data-driven systems.  
 📍 Pune, Maharashtra, India | [LinkedIn](https://www.linkedin.com/in/chaitanya-raut-226a4742b) | [Email](mailto:chaitanyaraut03@gmail.com)
 
-#### Currently
-- Building out Athena, an autonomous AI coding agent with a persistent, multi-tier memory engine
-- Hardening it for production: connection pooling, atomic writes under concurrency, cross-replica idempotency
-- Next: finishing the async I/O migration on Athena's background worker, then containerized deployment of `secure-auth-system`
+### Currently
+- Building backend systems with a focus on authentication, session security and API design
+- Deployed secure-auth-system on AWS EC2 (demo link in the repo)
+- Next: CSRF protection, rate limiting, automated tests and GitHub Actions CI for secure-auth-system, then HTTPS + Docker deployment
 
 #### 🛠 Tech Stack
 - **Languages & Frameworks:** Python, FastAPI, Flask, SQLModel, SQLAlchemy, Pydantic
@@ -24,6 +24,3 @@ Backend Engineer focused on scalable APIs, autonomous AI agent architectures, an
 
 ---
 
-#### Notes for recruiters / engineering managers
-- Every pinned repo ships with a README covering the problem it solves, the architecture, and how to run it locally.
-- Fewer, sharper repos beat a wall of forked tutorials — this profile is built around that.
